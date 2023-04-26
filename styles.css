@@ -3,6 +3,11 @@
   box-sizing: border-box;
 }
 
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
 #container {
   /* width: 375px;
   height: 710px; */
@@ -10,7 +15,7 @@
   background: #e5e5e5;
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 
 header {
@@ -50,7 +55,7 @@ nav .bar3 {
 }
 
 .headline {
-  background: #fff url("images/Header\ bg.png");
+  background: #fff url("images/header-shapes\ mobile.png");
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -104,4 +109,9 @@ nav .bar3 {
   display: inline;
   margin-right: 4%;
   font-size: 1.4em;
+}
+
+i {
+    color: #505F79;
+    margin-bottom: 58%;
 }
