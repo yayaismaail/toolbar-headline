@@ -58,6 +58,7 @@ nav .bar3 {
 
 .headline {
   background: #fff url("images/header-shapes-mobile.png");
+
   /* background-size: cover; */
   display: flex;
   flex-direction: column;
