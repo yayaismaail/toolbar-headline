@@ -107,7 +107,7 @@ d-There should be no custom changes to linter config.
 ### Usage
 
 To run the project, execute the following command:
-To navigate through the repo you type: cd finish-mobile-version,
+To navigate through the repo you type: cd portfolio-mobile-first.,
 Open the project in an IDE
 You can also run this project using or by lunching the live server plugging in VSCode.
 
