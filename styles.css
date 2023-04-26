@@ -3,9 +3,10 @@
   box-sizing: border-box;
 }
 
-body, html {
-    padding: 0;
-    margin: 0;
+body,
+html {
+  padding: 0;
+  margin: 0;
 }
 
 #container {
@@ -15,6 +16,7 @@ body, html {
   background: #e5e5e5;
   display: flex;
   flex-direction: column;
+
   /* margin: 0 auto; */
 }
 
@@ -112,6 +114,6 @@ nav .bar3 {
 }
 
 i {
-    color: #505F79;
-    margin-bottom: 58%;
+  color: #505f79;
+  margin-bottom: 58%;
 }
