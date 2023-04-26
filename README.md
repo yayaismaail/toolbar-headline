@@ -197,7 +197,7 @@ The entire Microverse team for their endless effort most especially the CEO,
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT] licensed.
+This project is [https://github.com/yayaismaail/] licensed.
 
 We recommend using the [MIT license](https://choosealicense.com/licenses/mit/) 
 
