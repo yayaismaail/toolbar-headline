@@ -4,8 +4,8 @@
 }
 
 #container {
-  width: 375px;
-  height: 710px;
+  /* width: 375px;
+  height: 710px; */
   border: 1px solid #e5e5e5;
   background: #e5e5e5;
   display: flex;
