@@ -142,8 +142,6 @@ github repository(Github Enterprise Cloud and Github Enterprise Server)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
--  **[Add Work and About Myself Sections.]**
 -  **[Add Links and Buttons.]**
 -  **[Add form and the like (Contact me)]**
 -  **[Add javascript to make it functional]**
@@ -197,7 +195,8 @@ The entire Microverse team for their endless effort most especially the CEO,
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT] licensed.
+This project is [https://github.com/yayaismaail/] licensed.
+
 
 We recommend using the [MIT license](https://choosealicense.com/licenses/mit/) 
 
