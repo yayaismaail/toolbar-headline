@@ -197,7 +197,6 @@ The entire Microverse team for their endless effort most especially the CEO,
 
 This project is [https://github.com/yayaismaail/] licensed.
 
-
 We recommend using the [MIT license](https://choosealicense.com/licenses/mit/) 
 
 - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). 
