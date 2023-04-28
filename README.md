@@ -142,8 +142,6 @@ github repository(Github Enterprise Cloud and Github Enterprise Server)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
--  **[Add Work and About Myself Sections.]**
 -  **[Add Links and Buttons.]**
 -  **[Add form and the like (Contact me)]**
 -  **[Add javascript to make it functional]**
