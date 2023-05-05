@@ -59,7 +59,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
+- [Live Demo on Netlify]
+- [Live Demo on Github pages] e.g
 - [Live Demo Link](https://yayaismaail.github.io/portfolio-mobile-first/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -123,6 +124,10 @@ Use browser like chrome by clicking on the link or use live server built in VSCo
 You can deploy this project using:
 github repository(Github Enterprise Cloud and Github Enterprise Server)
 
+You can also deploy this project using: 
+- [Netlify](https://www.netlify.com/) or
+- [Github Pages](https://pages.github.com/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,9 +147,14 @@ github repository(Github Enterprise Cloud and Github Enterprise Server)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--  **[Add Links and Buttons.]**
--  **[Add form and the like (Contact me)]**
--  **[Add javascript to make it functional]**
+- **[Add Links and Buttons.]**
+- **[Add form and the like (Contact me)]**
+- **[Add javascript to make it functional]**
+- **[Add contact me.]**
+- **[Add form for UI.]**
+- **[Create forms with HTML5 validations.]**
+- **[Understand the importance of UX.]**
+- **[Understand how to parse a Figma design to create a UI.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,7 +163,8 @@ github repository(Github Enterprise Cloud and Github Enterprise Server)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ismailhallirumuhammad/portfolio-mobile-first
+Feel free to check the:
+ [issues page](https://github.com/ismailhallirumuhammad/portfolio-mobile-first
 /issues).
 
 
