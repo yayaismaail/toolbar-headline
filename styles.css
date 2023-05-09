@@ -274,7 +274,7 @@ button {
 }
 
 .about-myself button {
-  width: 150px;
+  width: 149px;
   font-style: normal;
   font-weight: 600;
   font-size: 1em;
@@ -328,4 +328,109 @@ button:hover {
   padding-right: 30px;
   font-size: 1.3em;
   margin: 0;
+}
+
+#container2 {
+  border-top-left-radius: 105px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 30px;
+  background: #6070ff url(images/contact-form-shapes-mobile.png) no-repeat center;
+  background-size: 100% 90%;
+}
+
+#container2 h1 {
+  font-family: 'Poppins', sans-serif;
+  width: 100%;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.2em;
+  line-height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  margin-top: 50%;
+}
+
+#container2 p {
+  font-family: 'Poppins', sans-serif;
+  width: 100%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #ebebff;
+  margin: 0 auto;
+}
+
+#container2 form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+#container2 label {
+  display: block;
+}
+
+#container2 input,
+#container2 textarea {
+  width: 320px;
+  background: #fff;
+  border: 1px solid #cfd8dc;
+  border-radius: 8px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 24px;
+  margin-bottom: 20px;
+  padding: 10px;
+  outline: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+#container2 button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  font-family: 'Poppins', sans-serif;
+  color: #6070ff;
+  padding: 12px;
+  width: 142px;
+  height: 48px;
+  background: #fff;
+  border-radius: 8px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.1em;
+  outline: none;
+  border: none;
+  align-self: flex-start;
+}
+
+#container2 button:hover {
+  background-color: #6070ff;
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.shape {
+  width: 134px;
+  height: 5px;
+  background: #0d151e;
+  border-radius: 10px;
+  bottom: 8px;
+  margin: 14% auto 2%;
 }
