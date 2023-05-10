@@ -184,7 +184,7 @@ html {
   width: 295px;
 }
 
-.work ul {
+/* .work ul {
   list-style: none;
   padding: 0;
   margin: 20px 0;
@@ -203,7 +203,7 @@ html {
   letter-spacing: 0.03em;
   padding: 5px 10px;
   margin-right: 5px;
-}
+} */
 
 button {
   width: 130px;
@@ -337,6 +337,7 @@ button:hover {
   padding: 0 30px;
   background: #6070ff url(images/contact-form-shapes-mobile.png) no-repeat center;
   background-size: 100% 90%;
+  margin-top: 25%;
 }
 
 #container2 h1 {
@@ -433,4 +434,25 @@ button:hover {
   border-radius: 10px;
   bottom: 8px;
   margin: 14% auto 2%;
+}
+
+.work ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.work ul li {
+  float: left;
+  color: #6070ff;
+  background: #ebebff;
+  border-radius: 8px;
+  text-align: center;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1em;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  padding: 5px 10px;
+  margin-right: 5px;
 }
