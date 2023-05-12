@@ -23,7 +23,7 @@
 - [📝 License](#license)
 
 
-# 📖 [PORTFOLIO: MOBILE FIRST] <a name="about-project"></a>
+# 📖 [PORTFOLIO: ] <a name="about-project"></a>
 
 
 **[PORTFOLIO: MOBILE FIRST]** is a project aimed at targetting a small, medium and large screen size devices.
