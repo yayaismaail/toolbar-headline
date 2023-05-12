@@ -549,6 +549,11 @@ button:hover {
   gap: 20px;
 }
 
+.work .col-ss-5 {
+  display: flex;
+  flex-direction: column;
+}
+
 button {
   width: 130px;
   font-style: normal;
@@ -645,11 +650,11 @@ button {
   background-size: contain;
   border-top-left-radius: 105px;
   box-sizing: border-box;
-  /* padding: 10%; */
+  padding: 10%;
   margin-top: 10%;
 }
 
-.contaner2 h1 {
+/* .contaner2 h1 {
   font-style: normal;
   font-weight: 700;
   font-size: 3.1em;
@@ -659,10 +664,10 @@ button {
   align-items: center;
   text-align: center;
   color: #FFFFFF;
-  margin-top: unset;
-}
+  margin: 20px 0;
+} */
 
-.contaner2 p {        
+/* .contaner2 p {        
   font-style: normal;
   font-weight: 400;
   font-size: 1.2em;
@@ -671,18 +676,18 @@ button {
   color: #EBEBFF;
   margin: 0 auto;
   width: 80%;
-}
+} */
 
-.contaner2 form {
+/* .contaner2 form {
   margin-top: 40px;
   text-align: center;
-}
+} */
 
-.contaner2 label {
+/* .contaner2 label {
   display: block;
-}
+} */
 
-.contaner2 input, .contaner2 textarea {
+/* .contaner2 input, .contaner2 textarea {
   width: 95%;
   background: #FFFFFF;
   border: 1px solid #CFD8DC;
@@ -694,9 +699,9 @@ button {
   margin-bottom: 20px;
   padding: 10px;
   outline: none;
-}
+} */
 
-.contaner2 form button {
+/* .contaner2 form button {
   line-height: 24px;
   text-align: center;
   letter-spacing: 0.03em;
@@ -711,13 +716,13 @@ button {
   font-size: 1em;
   outline: none;
   border: none;
-}
+} */
 
-.contaner2 form button:hover {
+/* .contaner2 form button:hover {
   background-color: #6070FF;
   color: #FFFFFF;
   border: 1px solid #FFFFFF;
-}
+} */
 
 .about-myself .col-ss-7 > .categories ul li {
   display: flex;
