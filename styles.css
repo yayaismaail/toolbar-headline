@@ -39,6 +39,12 @@ header span {
   align-items: center;
   text-align: center;
   color: #6070ff;
+  transition: color 2s linear, font-size 2s ease-in;
+}
+
+header span:hover {
+  color: green;
+  font-size: 30px;
 }
 
 nav .bar1,
