@@ -458,7 +458,7 @@ button:hover {
   margin-right: 5px;
 }
 
-.desktop-menu, .desk1 {
+.desktop-menu, .desk1, .contact-me {
   display: none;
 }
 
@@ -490,11 +490,11 @@ button:hover {
 }
 
 @media only screen and (min-width: 768px) {
-  nav, .shape, .mob1 {
+  nav, .shape, .mob1, .container2 {
     display: none;
   }
 
-  .desktop-menu,  .desk1 {
+  .desktop-menu,  .desk1, .contact-me {
     display: block;
   }
 
@@ -552,6 +552,37 @@ button:hover {
 .work .col-ss-5 {
   display: flex;
   flex-direction: column;
+}
+
+.counter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 0;
+}
+
+.counters {
+  width: 10px;
+  height: 10px;
+  background-color: #c1c7d0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.work span {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.9em;
+  line-height: 16px;
+  color: #c1c7d0;
+  padding: 0 10px 0 0;
+}
+
+.work span:first-of-type {
+  color: #344563;
 }
 
 button {
@@ -637,92 +668,12 @@ button {
   padding: 8px;
   border: 1px solid #396DF2;
   border-radius: 10px;
-  /* margin-top: 4%; */
 }
 
 .about-myself button:hover {
   background-color: #396DF2;
   color: #FFFFFF;
 }
-
-.container2 {
-  background:  #6070FF url(images/contact-form-desktop.png) no-repeat;
-  background-size: contain;
-  border-top-left-radius: 105px;
-  box-sizing: border-box;
-  padding: 10%;
-  margin-top: 10%;
-}
-
-/* .contaner2 h1 {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 3.1em;
-  line-height: 52px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  color: #FFFFFF;
-  margin: 20px 0;
-} */
-
-/* .contaner2 p {        
-  font-style: normal;
-  font-weight: 400;
-  font-size: 1.2em;
-  line-height: 28px;
-  text-align: center;
-  color: #EBEBFF;
-  margin: 0 auto;
-  width: 80%;
-} */
-
-/* .contaner2 form {
-  margin-top: 40px;
-  text-align: center;
-} */
-
-/* .contaner2 label {
-  display: block;
-} */
-
-/* .contaner2 input, .contaner2 textarea {
-  width: 95%;
-  background: #FFFFFF;
-  border: 1px solid #CFD8DC;
-  border-radius: 2px;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 1em;
-  line-height: 24px;
-  margin-bottom: 20px;
-  padding: 10px;
-  outline: none;
-} */
-
-/* .contaner2 form button {
-  line-height: 24px;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #6070FF;
-  padding: 12px 16px;
-  width: 140px;
-  height: 48px;
-  background: #FFFFFF;
-  border-radius: 8px;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 1em;
-  outline: none;
-  border: none;
-} */
-
-/* .contaner2 form button:hover {
-  background-color: #6070FF;
-  color: #FFFFFF;
-  border: 1px solid #FFFFFF;
-} */
 
 .about-myself .col-ss-7 > .categories ul li {
   display: flex;
@@ -751,13 +702,93 @@ button {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   background-color: #f7f7f9;
   border-radius: 10px;
-  width: 80px;
-  height: 90px;
+  width: 90px;
+  height: 95px;
 }
 
 .col-ss-7 .stack ul li p {
   font-size: .7em;
+}
+
+.contact-me {
+  background:  #6070FF url(images/contact-form-desktop.png) no-repeat;
+  background-size: contain;
+  border-top-left-radius: 105px;
+  box-sizing: border-box;
+  padding: 10%;
+  margin-top: 10%;
+}
+
+.contact-me h4 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 3.1em;
+  line-height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  margin: 20px 0;
+}
+
+.contact-me p {        
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.2em;
+  line-height: 28px;
+  text-align: center;
+  color: #EBEBFF;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.contact-me form {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.contact-me label {
+  display: block;
+}
+
+.contact-me input, .contact-me textarea {
+  width: 75%;
+  background: #FFFFFF;
+  border: 1px solid #CFD8DC;
+  border-radius: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 24px;
+  margin-bottom: 20px;
+  padding: 10px;
+  outline: none;
+}
+
+.contact-me form button {
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #6070FF;
+  padding: 12px 16px;
+  width: 140px;
+  height: 48px;
+  background: #FFFFFF;
+  border-radius: 8px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1em;
+  outline: none;
+  border: none;
+}
+
+.contact-me form button:hover {
+  background-color: #6070FF;
+  color: #FFFFFF;
+  border: 1px solid #FFFFFF;
 }
 }
