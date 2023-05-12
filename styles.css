@@ -458,7 +458,7 @@ button:hover {
   margin-right: 5px;
 }
 
-.desktop-menu {
+.desktop-menu, .desk1 {
   display: none;
 }
 
@@ -490,11 +490,11 @@ button:hover {
 }
 
 @media only screen and (min-width: 768px) {
-  nav, .shape {
+  nav, .shape, .mob1 {
     display: none;
   }
 
-  .desktop-menu {
+  .desktop-menu,  .desk1 {
     display: block;
   }
 
