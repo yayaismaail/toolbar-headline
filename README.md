@@ -26,7 +26,7 @@
 # 📖 [PORTFOLIO: ] <a name="about-project"></a>
 
 
-**[PORTFOLIO: MOBILE FIRST]** is a project aimed at targetting a small, medium and large screen size devices.
+**[PORTFOLIO: ]** is a project aimed at targetting a small, medium and large screen size devices.
 
 
 ## 🛠 Built With <a name="built-with"></a>
