@@ -61,7 +61,7 @@
 
 - [Live Demo on Netlify]
 - [Live Demo on Github pages] e.g
-- [Live Demo Link](https://yayaismaail.github.io/portfolio-mobile-first/)
+- [Live Demo Link]( https://yayaismaail.github.io/toolbar-headline/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +164,7 @@ You can also deploy this project using:
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the:
- [issues page](https://github.com/ismailhallirumuhammad/portfolio-mobile-first
+ [issues page](https://github.com/ismailhallirumuhammad/portfolio
 /issues).
 
 
