@@ -1,10 +1,6 @@
 
 * {
   box-sizing: border-box;
-}
-
-body,
-html {
   padding: 0;
   margin: 0;
 }
@@ -39,12 +35,20 @@ header span {
   align-items: center;
   text-align: center;
   color: #6070ff;
-  transition: color 2s linear, font-size 2s ease-in;
+  transition: color 2s linear, font-size 2s, rotate 2s;
 }
 
 header span:hover {
   color: green;
+  width: 150px;
   font-size: 30px;
+  text-shadow: 1px 5px 2px #000;
+  transform: rotateX(360deg);
+}
+
+nav {
+  display: inline-block;
+  cursor: pointer;
 }
 
 nav .bar1,
@@ -54,7 +58,63 @@ nav .bar3 {
   height: 2px;
   background-color: #6070ff;
   margin-bottom: 5px;
+  transition: 1s;
 }
+
+body {
+  background: #f7f7f9;
+  height: auto;
+  z-index: 0;
+}
+
+#close-icon {
+  position: absolute;
+  top: 59px;
+  right: 29px;
+  cursor: pointer;
+}
+
+.mobile-menu {
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  background-color: #6070ff;
+  mix-blend-mode: multiply;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 44px;
+  color: white;
+  backdrop-filter: blur(7px);
+}
+
+.mobile-menu a {
+  font-size: 36px;
+  text-decoration: none;
+  color: white;
+  line-height: 44px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+
+#hamburger-list {
+  margin-left: 40px;
+  margin-top: 50px;
+  line-height: 44px;
+  font-weight: 600;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.hidden {
+  display: none;
+}
+
+
 
 .headline {
   background: #fff url("images/header-shapes\ mobile.png") no-repeat;
