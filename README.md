@@ -61,7 +61,7 @@
 
 - [Live Demo on Netlify]
 - [Live Demo on Github pages] e.g
-- [Live Demo Link]( https://yayaismaail.github.io/toolbar-headline/)
+- [Live Demo Link](  https://yayaismaail.github.io/toolbar-headline.github.io/)
 - [Live Demo Link](https://www.loom.com/share/814aed195b494a378b78e8a26db30dd1)
 - [Live Demo Link](https://www.loom.com/share/869dc4cbfa674be3be38f2c3834403de)
 
@@ -72,6 +72,7 @@
 
 
 To get a local copy up and running, follow these steps.
+
 
 ### Prerequisites
 
