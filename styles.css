@@ -574,8 +574,8 @@ button:hover {
     background-size: contain;
     display: flex;
     flex-direction: column;
-    /* border-bottom-left-radius: 10%;
-    padding: 15% 18%; */
+    border-bottom-left-radius: 10%;
+    padding: 15% 18%;
   }
 
   .headline h1 {
