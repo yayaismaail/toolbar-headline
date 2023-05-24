@@ -23,10 +23,10 @@
 - [📝 License](#license)
 
 
-# 📖 My-Portfolio Home-Page<a name="about-project"></a>
+# 📖 Portfolio Home-Page<a name="about-project"></a>
 
 
-**My-Portfolio** is a project aimed at targetting a small, medium and large screen size devices.
+**Portfolio Project** is a project aimed at targetting a small, medium and large screen size devices.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -63,7 +63,7 @@
 - [Live Demo on Github pages] e.g
  
 - ## toolbar-headline link:
-- [Live Demo Link](  https://yayaismaail.github.io/toolbar-headline.github.io/)
+- [Live Demo Link](  https://yayaismaail.github.io/toolbar-headline/)
 
 ##My Loom video link:
 - [Live Demo Link](https://www.loom.com/share/814aed195b494a378b78e8a26db30dd1)
