@@ -23,10 +23,10 @@
 - [📝 License](#license)
 
 
-# 📖 [PORTFOLIO: ] <a name="about-project"></a>
+# 📖 Portfolio Home-Page<a name="about-project"></a>
 
 
-**[PORTFOLIO: ]** is a project aimed at targetting a small, medium and large screen size devices.
+**Portfolio Project** is a project aimed at targetting a small, medium and large screen size devices.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -61,8 +61,14 @@
 
 - [Live Demo on Netlify]
 - [Live Demo on Github pages] e.g
-- [Live Demo Link]( https://yayaismaail.github.io/toolbar-headline/)
+ 
+- ## toolbar-headline link:
+- [Live Demo Link](  https://yayaismaail.github.io/toolbar-headline/)
+
+##My Loom video link:
 - [Live Demo Link](https://www.loom.com/share/814aed195b494a378b78e8a26db30dd1)
+- 
+## Here's another insightful Loom video:
 - [Live Demo Link](https://www.loom.com/share/869dc4cbfa674be3be38f2c3834403de)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,6 +78,7 @@
 
 
 To get a local copy up and running, follow these steps.
+
 
 ### Prerequisites
 
