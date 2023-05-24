@@ -91,6 +91,13 @@ body {
   backdrop-filter: blur(7px);
 }
 
+li a {
+  text-decoration: none;
+  display: block;
+  color: #396df2;
+  padding: 4px 8px;
+}
+
 .mobile-menu a {
   font-size: 36px;
   text-decoration: none;
@@ -99,7 +106,6 @@ body {
   font-style: normal;
   font-weight: 500;
 }
-
 
 #hamburger-list {
   margin-left: 40px;
@@ -113,8 +119,6 @@ body {
 .hidden {
   display: none;
 }
-
-
 
 .headline {
   background: #fff url("images/header-shapes\ mobile.png") no-repeat;
@@ -345,13 +349,6 @@ button {
   border-radius: 10px;
   height: 50px;
   margin-bottom: 0;
-}
-
-li a {
-  text-decoration: none;
-  display: block;
-  color: #396df2;
-  padding: 4px 8px;
 }
 
 button:hover {
