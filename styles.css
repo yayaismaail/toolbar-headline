@@ -601,7 +601,6 @@ button:hover {
   .about-myself {
     display: flex;
     flex-direction: row;
-    column-gap: 55px;
     height: 496px;
   }
 
@@ -611,10 +610,11 @@ button:hover {
     column-gap: 39px;
   }
 
-  .work .col-ss-5 {
+  .work .col-ss-7 {
     display: flex;
     flex-direction: column;
     height: 100%;
+    padding-left: 25px;
   }
 
   .counter {
@@ -674,6 +674,7 @@ button:hover {
   .about-myself .col-ss-5 {
     display: flex;
     flex-direction: column;
+    margin-right: 39px;
   }
 
   .about-myself .myself {
