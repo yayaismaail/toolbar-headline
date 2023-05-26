@@ -81,7 +81,7 @@ cards.innerHTML = html;
 
 const projectButtons = document.querySelectorAll('.btn1');
 
-for (let index = 0; index < projectButtons.length; index++) {
+for (let index = 0; index < projectButtons.length; index += 1) {
   projectButtons[index].addEventListener('click', () => {
     const title = popup.querySelector('.popup-title');
     const detail1 = popup.querySelector('.div1');
@@ -96,12 +96,15 @@ for (let index = 0; index < projectButtons.length; index++) {
     const img = popup.querySelector('img');
 
     title.textContent = projectArr[index].title;
-    detail1.textContent = projectArr[index].details[0];
-    detail2.textContent = projectArr[index].details[1];
-    detail3.textContent = projectArr[index].details[2];
-    tech1.textContent = projectArr[index].technologies[0];
-    tech2.textContent = projectArr[index].technologies[1];
-    tech3.textContent = projectArr[index].technologies[2];
+    const [details1, details2, details3] = projectArr[index].details;
+    const [techs1, techs2, techs3] = projectArr[index].technologies;
+
+    detail1.textContent = details1;
+    detail2.textContent = details2;
+    detail3.textContent = details3;
+    tech1.textContent = techs1;
+    tech2.textContent = techs2;
+    tech3.textContent = techs3;
     projDecscription.textContent = projectArr[index].description;
     liveButton.setAttribute('href', projectArr[index].live);
     sourceButton.setAttribute('href', projectArr[index].source);
