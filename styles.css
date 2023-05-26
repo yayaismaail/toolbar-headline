@@ -943,6 +943,7 @@ hr {
 .see-live-source {
   display: flex;
   flex-direction: row;
+  justify-content: end;
   gap: -5px;
   margin-left: -25px;
   margin-top: -8px;
