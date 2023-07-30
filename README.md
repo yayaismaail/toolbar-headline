@@ -66,10 +66,10 @@
 - [Live Demo Link](  https://yayaismaail.github.io/toolbar-headline/)
 
 ##My Loom video link:
-- [Live Demo Link](https://www.loom.com/share/814aed195b494a378b78e8a26db30dd1)
+- [Live Demo Link] 
 - 
 ## Here's another insightful Loom video:
-- [Live Demo Link](https://www.loom.com/share/869dc4cbfa674be3be38f2c3834403de)
+- [Live Demo Link] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
